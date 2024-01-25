@@ -2,7 +2,7 @@
   workflows:
   name: hBOTA
     subclass: WDL
-    primaryDescriptorPath: /jwitch/hBOTA/hBOTA.wdl
+    primaryDescriptorPath: /hBOTA/hBOTA.wdl
   name: NETMHC2_allele
     subclass: WDL
-    primaryDescriptorPath: /jwitch/hBOTA/NETMHC2_allele.wdl
+    primaryDescriptorPath: /hBOTA/NETMHC2_allele.wdl
