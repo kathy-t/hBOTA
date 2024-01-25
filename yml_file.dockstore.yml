@@ -1,6 +1,6 @@
 ---
 version: 1.2
-workflows: null
+workflows:
 name1: hBOTA
 subclass1: WDL
 primaryDescriptorPath1: /jwitch/hBOTA/hBOTA.wdl
