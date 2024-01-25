@@ -1,0 +1,2 @@
+Fasta_File_1k	gs://project_directory/
+Fasta_File_2k	gs://project_directory/
