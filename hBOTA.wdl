@@ -1,7 +1,7 @@
 ##### WORKFLOW DEFINITION #####
 import "https://gitlab.com/xavier-lab-computation/public/hbota/-/blob/main/NETMHC2_allele.wdl" as sub
 workflow hBOTA{
-
+###changed name of workflow####
 	File Sample_Path_List
 	File Allele_List
     String Fastq_Extension
